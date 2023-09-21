@@ -1,0 +1,2 @@
+bionetgen==0.7.9
+pysb==1.15.0
