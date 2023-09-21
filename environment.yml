@@ -1,0 +1,8 @@
+name: IGP-Qbio
+channels:
+  - alubbock
+  - defaults
+dependencies:
+  - bionetgen
+  - pysb
+  - matplotlib
